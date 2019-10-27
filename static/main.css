@@ -1,0 +1,60 @@
+body{
+	font-family: sans-serif;
+    background:#c9c7c6;
+	max-width: 48em;
+	margin: 0 auto;
+}
+
+.vara{
+	max-width: 25em;
+	background-color: #929190;
+	display: block;
+	text-decoration: none;
+	padding: .5em;
+    text-align: center;
+}
+
+.vara:hover{
+	background-color: #646363;
+}
+
+img{
+    height: 10em;
+    width: 15em;
+}
+
+a{
+	color:#333;
+}
+
+a:hover{
+	color: #a08b8b;
+}
+
+div p a:hover{
+	background-color: #646363;
+}
+
+header a{
+	color: rgb(48, 48, 202);
+	text-decoration: none;
+	margin: auto;
+}
+
+header a:hover{
+	color: rgb(123, 123, 228);
+}
+
+header{
+	border-bottom: 2px solid #a09d9d;
+}
+
+
+footer{
+	border-top: 2px solid #a09d9d;
+	margin-bottom: 2em;
+}
+
+footer div{
+	margin-top: 1em;
+}
